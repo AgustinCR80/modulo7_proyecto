@@ -6,3 +6,4 @@ Buscar correlaciones en las columnas numéricas mediante matriz de correlación 
 Relaciones cruzadas mediante scatterplot de las columnas numéricas y countplot de las categóricas. Conclusiones de la exploración en celdas de markdown.
 Exportamos el dataframe “bank_concat” a csv, para posteriormente importarlo en una nueva hoja de Jupiter notebook “bank_eda” y realizar un análisis descritivo de los datos sobre el resultado de la columna ‘y’. El análisis se comenta en celdas de markdown.
 En ocasiones he realizado diferente código para obtener un mismo resultado, esto lo he hecho para mejorar mi aprendizaje y ver diferentes formas de programación con un mismo resultado, por ejemplo: comprobar duplicados u obtener solamente clientes ‘yes’ de la columna ‘y’.
+Adjunto los apuntes realizados en las lecciones del módulo.
